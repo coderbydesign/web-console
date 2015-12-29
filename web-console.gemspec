@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
 
   s.files      = Dir["lib/**/*", "MIT-LICENSE", "Rakefile", "README.markdown", "CHANGELOG.markdown"]
 
-  s.required_ruby_version = '>= 2.2.2'
+  s.required_ruby_version = '>= 2.0.0'
 
   rails_version = ">= 4.2"
 
